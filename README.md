@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhayThakurr
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning ReactJs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
